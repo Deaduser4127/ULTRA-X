@@ -29,8 +29,12 @@ Also join [support channel and group](https://github.com/ULTRA-OP/ULTRA-X#o%D2%9
 ## Iɴsᴛᴀʟʟɪɴɢ
 
 # Cʀᴇᴅɪᴛs 📍
-## • 𝐀𝐂𝐄 𝐃𝐔𝐊𝐄 ⸸  »»  <a href="https://github.com/acexduke" alt="SinX"> <img src="https://img.shields.io/badge/SinX-E5E4E2?logo=github" /></a>
-###• ⚡️ ＭＲＵＮＡＬ•🇮🇳•🚀 »»  <a href="https://github.com/msy1717" alt="SinX"> <img src="https://img.shields.io/badge/msy1717-98AFC7?logo=github" /></a>
+• 𝐀𝐂𝐄 𝐃𝐔𝐊𝐄 ⸸  »»  <a href="https://github.com/acexduke" alt="SinX"> <img src="https://img.shields.io/badge/SinX-E5E4E2?logo=github" /></a>
+• ⚡️ ＭＲＵＮＡＬ•🇮🇳•🚀 »»  <a href="https://github.com/msy1717" alt="SinX"> <img src="https://img.shields.io/badge/msy1717-98AFC7?logo=github" /></a>
+
+#telegram  
+[𝐀𝐂𝐄 𝐃𝐔𝐊𝐄 ⸸](t.me/aceduke_sinx)
+[⚡️ ＭＲＵＮＡＬ•🇮🇳•🚀](t.me/Godmrunal)
 
 
 ### Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
