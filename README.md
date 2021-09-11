@@ -1,54 +1,43 @@
 
-* <b><a href ="https://github.com/ULTRA-OP/ULTRA-X#%CF%85%E2%84%93%D1%82%D1%8F%CE%B1-%CF%87-%D0%B2%CF%83%D1%82">Aʙᴏᴜᴛ υℓтяα χ </a>
-* <b><a href="https://github.com/ULTRA-OP/ULTRA-X/blob/main/README.md#s%E1%B4%9B%E1%B4%80%E1%B4%9B%E1%B4%9Cs-o%D2%93-t%CA%9C%C9%AAs-b%E1%B4%8F%E1%B4%9B">υℓтяα χ Sᴛᴀᴛᴜs <a/>
-* <b><a href="https://github.com/ULTRA-OP/ULTRA-X#d%E1%B4%87%E1%B4%98%CA%9F%E1%B4%8F%CA%8F-">Dᴇᴘʟᴏʏ</a>
-
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/legendx22/LEGEND-BOT?utm_source=github.com&utm_medium=referral&utm_content=legendx22/LEGEND-BOT&utm_campaign=Badge_Grade_Settings)
-[![Python 3.8.6](https://img.shields.io/badge/Python-3.8.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-386/)
-![GitHub repo size](https://img.shields.io/github/repo-size/ULTRA-OP/ULTRA-X)
 
 
-# υℓтяα χ вσт
+# SINX χ вσт
 This is a ULTRA made for telegram. I made this ULTRA with help of all other ULTRAs available in telegram. All credits goes to its Respective Owners....
 
-This is the one and only official υℓтяα χ вσт made by [ Team Ultra](https://t.me/ULTRAXOT) 
+This is the one and only official υℓтяα χ вσт made by [ Team SINX](https://t.me/The_Sinners_Empire) 
 
 Also join [support channel and group](https://github.com/ULTRA-OP/ULTRA-X#o%D2%93%D2%93%C9%AA%E1%B4%84%C9%AA%E1%B4%80%CA%9F-s%E1%B4%9C%E1%B4%98%E1%B4%98%E1%B4%8F%CA%80%E1%B4%9B) Enjoy Your Bot!!💝
 
-[![υℓтяα χ вσт ℓσgσ](https://telegra.ph/file/3319f8a33ea113509e179.jpg)](https://t.me/ULTRAXOT)
+[![SINχ вσт ℓσgσ](https://telegra.ph/file/7a2e0dca3bacda9335947.jpg)](https://t.me/SinXBots)
 
 -------------------------------------------------
 
 ## Dᴇᴘʟᴏʏ:-
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FULTRA-OP%2FHEROKU&template=https%3A%2F%2Fgithub.com%2FULTRA-OP%2FHEROKU)
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/msy1717/SINNERSUB)
 ------------------------------------------------
 
 ## Sᴛʀɪɴɢ Sᴇssɪᴏɴ:-
 
-## [String Session](https://replit.com/@legendx22/ULTRA-X)
+## [String Session](https://replit.com/@MrunalYeole/SinXSEssion)
 
 -------------------------------------------------
 
 ## Sᴛᴀᴛᴜs Oғ Tʜɪs Bᴏᴛ
 <p align="left"><a href="https://github.com/ULTRAX-OP/ULTRA-X/network/members"><img src="https://img.shields.io/github/forks/ULTRA-OP/ULTRA-X?label=Forks&logoColor=pink&style=social"></a><p align="left"><a href="https://github.com/ULTRA-OP/ULTRA-X/stargazers"><img src="https://img.shields.io/github/stars/ULTRA-OP/ULTRA-X?logoColor=red&style=social"></a><p align="left"><a href="https://github.com/ULTRA-OP/ULTRA-x"><img src="https://img.shields.io/github/last-commit/Ultra-Op/Ultra-X?style=plastic"></a>
 
-## The owner would not be responsible for any kind of bans due to the bot...
-## Fᴏʀᴋ Aᴛ Yᴏᴜʀ Oᴡɴ Rɪsᴋ
 ## Iɴsᴛᴀʟʟɪɴɢ
 
 # Cʀᴇᴅɪᴛs 📍
-## • LEGENDX  »»  <a href="https://github.com/LEGENDXOP" alt="LegendX"> <img src="https://img.shields.io/badge/LEGEND X-E5E4E2?logo=github" /></a>
-### • ULTRA X  »»  <a href="https://github.com/LEGENDXOP/LEGEND-BOT" alt="UltraX"> <img src="https://img.shields.io/badge/ULTRA-X-98AFC7?logo=github" /></a>
-### • PROBOYX  »»  <a href="https://github.com/PROBOYX" alt="ProBoy X"> <img src="https://img.shields.io/badge/PROBOY X-625D5D?logo=github" /></a>
-### • MADBOY   »»  <a href="https://github.com/madboy482" alt="MadBoy"> <img src="https://img.shields.io/badge/MADBOY-30302f?logo=github" /></a>
+## • 𝐀𝐂𝐄 𝐃𝐔𝐊𝐄 ⸸  »»  <a href="https://github.com/acexduke" alt="SinX"> <img src="https://img.shields.io/badge/SinX-E5E4E2?logo=github" /></a>
+###• ⚡️ ＭＲＵＮＡＬ•🇮🇳•🚀 »»  <a href="https://github.com/msy1717" alt="SinX"> <img src="https://img.shields.io/badge/msy1717-98AFC7?logo=github" /></a>
+
 
 ### Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
 
 ## Oғғɪᴄɪᴀʟ Sᴜᴘᴘᴏʀᴛ
-<a href="https://telegram.me/UltraXChat"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://telegram.me/UltraX_Support"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/SinXBots"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/SinX_Support"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ## Tʜᴇ Nᴏʀᴍᴀʟ Wᴀʏ
 
@@ -99,8 +88,3 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 # Licence 📋
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
 
-## Copyright (C) 2021 by Team Ultra for UltraX UserBot, < https://github.com/ULTRA-OP >.
-
-
-# ➥ ULTRA-X   »»  <a href="https://github.com/ULTRA-OP/ULTRA-X" alt="UltraX"> <img src="https://img.shields.io/badge/ULTRA X-413839?logo=github" /></a>
-# ➥ ULTRA-OP  »»  <a href="https://github.com/ULTRA-OP" alt="Ultra-Op"> <img src="https://img.shields.io/badge/ULTRA OP-BCE954?logo=github" /></a>
